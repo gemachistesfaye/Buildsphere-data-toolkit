@@ -27,4 +27,12 @@ A reusable Python toolkit for data cleaning, transformation and analytics.
 
 ---
 
-Part of the BuildSphere ecosystem.
+## 🔗 BuildSphere Ecosystem
+
+This project is part of the BuildSphere 60-Day Challenge:
+
+- Airline Booking System
+- Student Dashboard
+- Booking Analytics
+- Data Toolkit
+- React Dashboard Template
